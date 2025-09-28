@@ -24,9 +24,6 @@ public class Employee {
         return salary;
     }
 
-    public void setSalary(Double salary) {
-        this.salary = salary;
-    }
 
     public String getName() {
         return name;

@@ -33,7 +33,7 @@ public class Main {
                     if (j < matriz[i].length - 1) {
                         System.out.println("Right: " + matriz[i][j + 1]);
                     }
-                    if (i  < matriz[i].length - 1) {
+                    if (i  < matriz.length - 1) {
                         System.out.println("Down: " + matriz[i + 1][j]);
                     }
                 }
